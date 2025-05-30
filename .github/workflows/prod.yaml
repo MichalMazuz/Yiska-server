@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master # או 'main', תלוי בשם הבראנץ' הראשי שלך
+      - main # או 'main', תלוי בשם הבראנץ' הראשי שלך
 
 jobs:
   build-and-deploy:
